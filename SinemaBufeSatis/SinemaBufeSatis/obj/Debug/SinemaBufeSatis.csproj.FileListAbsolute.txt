@@ -1,0 +1,11 @@
+C:\Users\aysuc\OneDrive\Masaüstü\C#\SinemaBufeSatis\SinemaBufeSatis\bin\Debug\SinemaBufeSatis.exe.config
+C:\Users\aysuc\OneDrive\Masaüstü\C#\SinemaBufeSatis\SinemaBufeSatis\bin\Debug\SinemaBufeSatis.exe
+C:\Users\aysuc\OneDrive\Masaüstü\C#\SinemaBufeSatis\SinemaBufeSatis\bin\Debug\SinemaBufeSatis.pdb
+C:\Users\aysuc\OneDrive\Masaüstü\C#\SinemaBufeSatis\SinemaBufeSatis\obj\Debug\SinemaBufeSatis.csproj.AssemblyReference.cache
+C:\Users\aysuc\OneDrive\Masaüstü\C#\SinemaBufeSatis\SinemaBufeSatis\obj\Debug\SinemaBufeSatis.csproj.SuggestedBindingRedirects.cache
+C:\Users\aysuc\OneDrive\Masaüstü\C#\SinemaBufeSatis\SinemaBufeSatis\obj\Debug\SinemaBufeSatis.Form1.resources
+C:\Users\aysuc\OneDrive\Masaüstü\C#\SinemaBufeSatis\SinemaBufeSatis\obj\Debug\SinemaBufeSatis.Properties.Resources.resources
+C:\Users\aysuc\OneDrive\Masaüstü\C#\SinemaBufeSatis\SinemaBufeSatis\obj\Debug\SinemaBufeSatis.csproj.GenerateResource.cache
+C:\Users\aysuc\OneDrive\Masaüstü\C#\SinemaBufeSatis\SinemaBufeSatis\obj\Debug\SinemaBufeSatis.csproj.CoreCompileInputs.cache
+C:\Users\aysuc\OneDrive\Masaüstü\C#\SinemaBufeSatis\SinemaBufeSatis\obj\Debug\SinemaBufeSatis.exe
+C:\Users\aysuc\OneDrive\Masaüstü\C#\SinemaBufeSatis\SinemaBufeSatis\obj\Debug\SinemaBufeSatis.pdb
